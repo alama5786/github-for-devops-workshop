@@ -1,0 +1,1 @@
+print("hello doston, kya haal chaal, kaisen hein sab?")
